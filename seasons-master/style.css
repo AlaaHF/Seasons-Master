@@ -1,0 +1,66 @@
+html{
+    background-color: darkslategrey;
+}
+
+body{
+    width: 900px;
+    padding: 10px;
+    text-align: left;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3{
+    font-family: 'Paytone One', sans-serif;
+}
+
+h2{
+    font-size: 40px;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+div.input, .spring,.summer, .autumn, .winter{
+    width: 800px;
+    margin: auto;
+    padding: 50px;
+}
+
+div.input{
+    background-color: white;
+    text-align: center;
+}
+
+div.spring{
+    background-color: rgb(254, 240, 158);
+}
+
+div.summer{
+    background-color:rgb(151,227,251);
+}
+
+div.autumn{
+    background-color: #9C2706; 
+    color: white;
+}
+
+div.winter{
+    background-color: steelblue;
+    color: white;
+}
+img{
+    border-radius: 50px;
+}
+
+button{
+    padding: 5px 20px;
+}
+
+a:hover{
+    text-decoration-color: yellow;
+    text-decoration: underline;
+}
